@@ -4,13 +4,14 @@ Industrial companies working in Human Computation and Crowdsourcing
 |         TITLE        |       TYPE | FOUNDED |
 |:-------------------------|:----------------|:-------------------|
 | [MTURK](http://mturk.com) | Platform | 2006 | 
-| [CrowdFlower](https://crowdflower.com) | Platform/Consultancy | 2009 |
+| [CrowdFlower](https://crowdflower.com) | Platform/Consultancy | 2007 |
 | [Microworkers](https://microworkers.com) | Platform | 2009 |
 | [CloudFactory](https://www.cloudfactory.com) | Platform/Consultancy | ?? |
 | [DefinedCrowd](https://www.definedcrowd.com/en-us/) | Platform/Consultancy | ?? |
 | [LeadGenious](https://www.leadgenius.com) | Consultancy | ?? |
 | [Spare5](https://app.spare5.com/fives) | Platform | ?? | 
 | [FouleFactory](https://www.foulefactory.com/en/) | Platform | ?? | 
+| [ScaleAPI](http://scaleapi.com) | Platform | ?? | 
 
 
 
